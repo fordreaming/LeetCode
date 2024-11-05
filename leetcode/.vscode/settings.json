@@ -1,18 +1,8 @@
 {
-    "C_Cpp.errorSquiggles": "Enabled",
     "files.associations": {
-        "bitset": "cpp",
-        "array": "cpp",
-        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
         "utility": "cpp",
-        "__hash_table": "cpp",
-        "__split_buffer": "cpp",
-        "deque": "cpp",
-        "iterator": "cpp",
-        "queue": "cpp",
-        "random": "cpp",
-        "string": "cpp",
-        "unordered_map": "cpp",
-        "vector": "cpp"
+        "queue": "cpp"
     }
 }
